@@ -10,3 +10,4 @@ Pienso que como analistas de seguridad debemos estar atentos a todos los riesgos
 
 
 FERNANDO CASTRO
+Yo pienso que debemos cuidar la seguridad de los sietmas informaticos y proteger las organizaciones
